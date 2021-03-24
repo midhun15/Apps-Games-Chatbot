@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: orangered;
+}
+
+#APPS {
+    width: 100%;
+    height: 800px;
+    background-color: orangered;
+}
+
+.line {
+    width: 100%;
+    background-color: yellow;
+    height: 10px;
+    margin: 10px auto;
+}
+
+h1 {
+    height: 10px;
+    color: white;
+}
+
+#GAMES {
+    width: 100%;
+    height: 800px;
+    background-color: orangered;
+}
+
+#CHATBOT {
+    width: 100%;
+    height: 800px;
+    background-color: orangered;
+}
